@@ -1,0 +1,27 @@
+License details for VNC Enterprise Edition for Windows
+
+Your customer reference is:
+0809-1493-3173
+
+Your license key is:
+6RQJF-2HRWX-5LARB-32NC7-R3A3A
+
+This key can be installed on 6000 computers.
+
+
+To obtain the software, please visit
+http://www.realvnc.com/cgi-bin/download.cgi?product=enterprise4/winvnc
+
+To find online documentation and other resources, visit http://www.realvnc.com/products/enterprise/
+
+In case of problems you can submit a support request at http://www.realvnc.com/cgi-bin/support.cgi?customer=0809-1493-3173&product=e
+nterprise4/winvnc
+
+
+Please print these details for your records.
+
+Thank you for choosing RealVNC.
+
+--
+The VNC Team
+
